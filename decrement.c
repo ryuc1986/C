@@ -2,9 +2,9 @@
 
 int main(void)
 {
-	printf("Hello, world\n");
-	return 0;
-} Integer : ");	scanf("%d", &num);
+	int num;	
+	
+	printf("Please input Integer: ");	scanf("%d", &num);
 	
 	if (num >=1){
 		
